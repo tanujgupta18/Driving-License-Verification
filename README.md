@@ -56,7 +56,7 @@ npm run dev
 
 | Upload License                       | Extracted Info                         |
 | ------------------------------------ | -------------------------------------- |
-| ![Upload UI](screenshots/upload.jpg) | ![Result Card](screenshots/result.jpg) |
+| ![Upload UI](screenshots/upload.jpg) | ![Result Card](screenshots/result.JPG) |
 
 ---
 
